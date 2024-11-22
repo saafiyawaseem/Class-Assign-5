@@ -1,3 +1,5 @@
+
+
 import React from 'react'
 import Header from './Component/Header'
 import Image from 'next/image'
@@ -34,4 +36,3 @@ const Home = () => {
 }
 
 export default Home;
-
